@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/samman-kumar-492931221/
+- 📫 How to reach me skgsamman@gmail.com
 
 <!---
 SAM2407/SAM2407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
