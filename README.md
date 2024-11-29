@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SAM2407
 - 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Frontend and DSA
 - 📫 How to reach me https://www.linkedin.com/in/samman-kumar-492931221/
 - 📫 How to reach me skgsamman@gmail.com
 
