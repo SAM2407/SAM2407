@@ -177,6 +177,18 @@ interactive tools.
 </p>
 
 ---
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=SAM2407&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 ## 💻 GitHub
 
