@@ -156,10 +156,11 @@ A platform designed to help students create and join study groups, manage study 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAM2407&theme=tokyo-night&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SAM2407&theme=tokyo-night&hide_border=true"
+    alt="Samman's GitHub Activity Graph"
+  />
 </p>
-
----
 
 ## 🤝 Connect With Me
 
@@ -169,7 +170,7 @@ A platform designed to help students create and join study groups, manage study 
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="">
+<a href="https://github.com/SAM2407">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 
