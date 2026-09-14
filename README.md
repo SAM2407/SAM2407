@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Samman Gond 👋</h1>
 
 <h3 align="center">
-  MCA @ MNNIT Allahabad | Aspiring Software Engineer | Problem Solver
+ BSc(CS) @ BHU | MCA @ MNNIT Allahabad | Aspiring Software Engineer | Problem Solver
 </h3>
 
 <p align="center">
